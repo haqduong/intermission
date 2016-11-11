@@ -78,6 +78,7 @@ Pull requests with passing tests (there are no tests!) are welcomed and apprecia
 # License
 
      Copyright (c) 2012 37signals (37signals.com)
+     Copyright (c) 2016 haqduong
 
      Permission is hereby granted, free of charge, to any person obtaining
      a copy of this software and associated documentation files (the
